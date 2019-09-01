@@ -1,0 +1,45 @@
+
+@media screen and (min-width: 360px) {
+
+  .main_container_portfolio,.container_portfolio_resource{
+    background:#F1F1F1;
+  }
+
+  .img_phone{
+    width:100%;
+  }
+  .head_portfolio{
+    padding-right: 10px;
+    margin:0;
+    padding:25px 0 0 35px;
+    color:#3A3737;
+    font-size:21px;
+    font-family: "Avenir Next", sans-serif !important;
+
+  }
+  .description{
+    padding-left:10px;
+    font-size:12px;
+    color:#424242;
+    font-family: "Avenir Next", sans-serif !important;
+  }
+  .head_app{
+    font-size:16px;
+    color:#4A4848;
+    font-family: "Avenir Next", sans-serif !important;
+  }
+
+  .container_img_phone{
+    width:50%;
+    float:left;
+  }
+
+  .container_description_paragraph{
+    width:50%;
+    float:left;
+  }
+  .container_portfolio_resource{
+    float:left;
+  }
+
+}

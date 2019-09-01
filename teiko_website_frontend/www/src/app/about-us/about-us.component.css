@@ -1,0 +1,23 @@
+@media screen and (min-width: 360px) {
+
+  .div_container_about_us{
+    background: #565555;
+    margin-top:40px;
+    padding-bottom: 10px;
+  }
+
+  .div_head_first_section, .div_head_second_section, .div_head_third_section{
+    color:white;
+    font-size:18px;
+    padding:5px 0 0 20px !important;    font-family: "Avenir Next", sans-serif !important;
+
+  }
+
+  .div_paragraph_first_section, .div_paragraph_second_section, .div_paragraph_third_section{
+    margin-left:70px;
+    color:#D8D8D8;
+    font-size:14px;
+    font-family: "Avenir Next", sans-serif !important;
+  }
+
+}
